@@ -72,10 +72,10 @@ Spineプロジェクトの著作権はG2 Stduios株式会社に、エフェク�
 ## 作成者 / Author
   
 **キャラクターデザイン及びキャラクターSpineセットアップ**  
-　G2 Studios株式会社
-　https://g2-studios.net/
+　G2 Studios株式会社  
+　https://g2-studios.net/  
 　エマール美咲  
-　https://note.com/misaki_ey
+　https://note.com/misaki_ey  
   
 **エフェクトデザイン**  
 　株式会社Artner  
